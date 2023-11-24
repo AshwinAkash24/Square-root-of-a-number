@@ -30,6 +30,7 @@ print("Square root of the number:",newton_method(a))
 
 ## Output:
 ![gcd of two number](gcd.png)
+![sq1](https://github.com/AshwinAkash24/Square-root-of-a-number/assets/144979248/4368487a-0292-4cc0-99ab-9427da513986)
 
 
 ## Result:
